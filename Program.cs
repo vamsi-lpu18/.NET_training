@@ -42,13 +42,23 @@ class Area
         // else if(b>c) Console.WriteLine($"{b} is larger then {a} and {c}");
         // else Console.WriteLine($"{c} is larger than {a} and {b}");\
         /*     sum of digits      */
+        // int m=Convert.ToInt32(Console.ReadLine());
+        // int sum=0;
+        // while (m > 0)
+        // {
+        //     sum+=m%10;
+        //     m/=10;
+        // }
+        // Console.WriteLine($"the sum of digits in {m} is {sum}");
+        /* reverse  a number */
         int m=Convert.ToInt32(Console.ReadLine());
-        int sum=0;
+        int n=0;
+        int l=m;
         while (m > 0)
         {
-            sum+=m%10;
+            n=n*10+m%10;
             m/=10;
         }
-        Console.WriteLine($"the sum of digits in {m} is {sum}");
+        Console.WriteLine($"Reverse of {l} is {n}");
     }
 }
