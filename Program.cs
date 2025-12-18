@@ -39,7 +39,7 @@ class Area
         int c=Convert.ToInt32(Console.ReadLine());
         if(a>b && a>c)
         Console.WriteLine($"{a} is bigger then {b} and {c}");
-        else if(c>a && c>b) Console.WriteLine($"{c} is larger then {a} and {b}");
-        else Console.WriteLine($"{b} is larger than {a} and {c}");
+        else if(b>c) Console.WriteLine($"{b} is larger then {a} and {c}");
+        else Console.WriteLine($"{c} is larger than {a} and {b}");
     }
 }
