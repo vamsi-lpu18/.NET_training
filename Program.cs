@@ -34,12 +34,21 @@ class Area
         //     if(flag)Console.Write("Allowed");
         //     else Console.Write("Not allowed");
         // }
-        int a=Convert.ToInt32(Console.ReadLine());
-        int b=Convert.ToInt32(Console.ReadLine());
-        int c=Convert.ToInt32(Console.ReadLine());
-        if(a>b && a>c)
-        Console.WriteLine($"{a} is bigger then {b} and {c}");
-        else if(b>c) Console.WriteLine($"{b} is larger then {a} and {c}");
-        else Console.WriteLine($"{c} is larger than {a} and {b}");
+        // int a=Convert.ToInt32(Console.ReadLine());
+        // int b=Convert.ToInt32(Console.ReadLine());
+        // int c=Convert.ToInt32(Console.ReadLine());
+        // if(a>b && a>c)
+        // Console.WriteLine($"{a} is bigger then {b} and {c}");
+        // else if(b>c) Console.WriteLine($"{b} is larger then {a} and {c}");
+        // else Console.WriteLine($"{c} is larger than {a} and {b}");\
+        /*     sum of digits      */
+        int m=Convert.ToInt32(Console.ReadLine());
+        int sum=0;
+        while (m > 0)
+        {
+            sum+=m%10;
+            m/=10;
+        }
+        Console.WriteLine($"the sum of digits in {m} is {sum}");
     }
 }
