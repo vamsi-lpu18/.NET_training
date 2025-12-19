@@ -52,13 +52,7 @@ class Area
         // Console.WriteLine($"the sum of digits in {m} is {sum}");
         /* reverse  a number */
         int m=Convert.ToInt32(Console.ReadLine());
-        int n=0;
-        int l=m;
-        while (m > 0)
-        {
-            n=n*10+m%10;
-            m/=10;
-        }
-        Console.WriteLine($"Reverse of {l} is {n}");
+        Killer.Print(m);
+        
     }
 }
