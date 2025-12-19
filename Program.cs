@@ -51,8 +51,14 @@ class Area
         // }
         // Console.WriteLine($"the sum of digits in {m} is {sum}");
         /* reverse  a number */
-        int m=Convert.ToInt32(Console.ReadLine());
-        Killer.Print(m);
+        Console.WriteLine("Enter age:");
+        int a=Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter amount:");
+        int amount=Convert.ToInt32(Console.ReadLine());
+        // int n=
+        // Killer.Print(m);
+        Finance.Check(a,amount);
+
         
     }
 }
