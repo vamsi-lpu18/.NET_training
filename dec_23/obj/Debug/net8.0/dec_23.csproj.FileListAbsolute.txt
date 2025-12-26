@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\dec_23\bin\Debug\net8.0\dec_23.exe
+C:\Users\Hey\Desktop\FirstApp\dec_23\bin\Debug\net8.0\dec_23.deps.json
+C:\Users\Hey\Desktop\FirstApp\dec_23\bin\Debug\net8.0\dec_23.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\dec_23\bin\Debug\net8.0\dec_23.dll
+C:\Users\Hey\Desktop\FirstApp\dec_23\bin\Debug\net8.0\dec_23.pdb
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.dll
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\refint\dec_23.dll
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.pdb
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\dec_23.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\dec_23\obj\Debug\net8.0\ref\dec_23.dll
