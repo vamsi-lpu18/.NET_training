@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\bin\Debug\net8.0\Quick_mart_assing.exe
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\bin\Debug\net8.0\Quick_mart_assing.deps.json
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\bin\Debug\net8.0\Quick_mart_assing.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\bin\Debug\net8.0\Quick_mart_assing.dll
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\bin\Debug\net8.0\Quick_mart_assing.pdb
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.dll
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\refint\Quick_mart_assing.dll
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.pdb
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\Quick_mart_assing.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\Quick_mart_assing\obj\Debug\net8.0\ref\Quick_mart_assing.dll
