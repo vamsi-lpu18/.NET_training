@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\bin\Debug\net8.0\dec_26_task_2.exe
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\bin\Debug\net8.0\dec_26_task_2.deps.json
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\bin\Debug\net8.0\dec_26_task_2.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\bin\Debug\net8.0\dec_26_task_2.dll
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\bin\Debug\net8.0\dec_26_task_2.pdb
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.dll
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\refint\dec_26_task_2.dll
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.pdb
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\dec_26_task_2.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\dec_26_task_2\obj\Debug\net8.0\ref\dec_26_task_2.dll

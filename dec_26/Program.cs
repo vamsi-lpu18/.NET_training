@@ -177,12 +177,6 @@ class Program
         // {
         //     Console.WriteLine("Key found");
         // }else Console.WriteLine("Key not found");
-
-
-
-
-
-
         ///////////////Q1 find freq of elements in an array;
         /// 
         // int []arr=

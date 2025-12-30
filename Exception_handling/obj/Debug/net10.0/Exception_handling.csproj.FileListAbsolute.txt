@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\bin\Debug\net10.0\Exception_handling.exe
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\bin\Debug\net10.0\Exception_handling.deps.json
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\bin\Debug\net10.0\Exception_handling.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\bin\Debug\net10.0\Exception_handling.dll
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\bin\Debug\net10.0\Exception_handling.pdb
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.dll
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\refint\Exception_handling.dll
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.pdb
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\Exception_handling.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\Exception_handling\obj\Debug\net10.0\ref\Exception_handling.dll
