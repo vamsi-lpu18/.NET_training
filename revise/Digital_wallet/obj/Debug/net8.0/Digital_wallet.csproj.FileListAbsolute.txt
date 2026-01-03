@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\bin\Debug\net8.0\Digital_wallet.exe
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\bin\Debug\net8.0\Digital_wallet.deps.json
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\bin\Debug\net8.0\Digital_wallet.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\bin\Debug\net8.0\Digital_wallet.dll
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\bin\Debug\net8.0\Digital_wallet.pdb
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.dll
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\refint\Digital_wallet.dll
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.pdb
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\Digital_wallet.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\revise\Digital_wallet\obj\Debug\net8.0\ref\Digital_wallet.dll
