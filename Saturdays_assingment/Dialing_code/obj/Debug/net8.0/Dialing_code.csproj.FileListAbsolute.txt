@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\dialing_code\bin\Debug\net8.0\Dialing_code.exe
+C:\Users\Hey\Desktop\FirstApp\dialing_code\bin\Debug\net8.0\Dialing_code.deps.json
+C:\Users\Hey\Desktop\FirstApp\dialing_code\bin\Debug\net8.0\Dialing_code.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\dialing_code\bin\Debug\net8.0\Dialing_code.dll
+C:\Users\Hey\Desktop\FirstApp\dialing_code\bin\Debug\net8.0\Dialing_code.pdb
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.dll
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\refint\Dialing_code.dll
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.pdb
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\Dialing_code.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\dialing_code\obj\Debug\net8.0\ref\Dialing_code.dll
