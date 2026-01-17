@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\bin\Debug\net8.0\jan_14_1.exe
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\bin\Debug\net8.0\jan_14_1.deps.json
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\bin\Debug\net8.0\jan_14_1.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\bin\Debug\net8.0\jan_14_1.dll
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\bin\Debug\net8.0\jan_14_1.pdb
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.dll
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\refint\jan_14_1.dll
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.pdb
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\jan_14_1.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\jan_14_1\obj\Debug\net8.0\ref\jan_14_1.dll

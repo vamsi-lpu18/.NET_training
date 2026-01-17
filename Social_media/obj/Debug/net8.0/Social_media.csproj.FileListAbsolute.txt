@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\Social_media\bin\Debug\net8.0\Social_media.exe
+C:\Users\Hey\Desktop\FirstApp\Social_media\bin\Debug\net8.0\Social_media.deps.json
+C:\Users\Hey\Desktop\FirstApp\Social_media\bin\Debug\net8.0\Social_media.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\Social_media\bin\Debug\net8.0\Social_media.dll
+C:\Users\Hey\Desktop\FirstApp\Social_media\bin\Debug\net8.0\Social_media.pdb
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.dll
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\refint\Social_media.dll
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.pdb
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\Social_media.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\Social_media\obj\Debug\net8.0\ref\Social_media.dll

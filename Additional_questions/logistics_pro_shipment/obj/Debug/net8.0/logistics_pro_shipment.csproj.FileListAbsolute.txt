@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\bin\Debug\net8.0\logistics_pro_shipment.exe
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\bin\Debug\net8.0\logistics_pro_shipment.deps.json
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\bin\Debug\net8.0\logistics_pro_shipment.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\bin\Debug\net8.0\logistics_pro_shipment.dll
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\bin\Debug\net8.0\logistics_pro_shipment.pdb
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.dll
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\refint\logistics_pro_shipment.dll
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.pdb
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\logistics_pro_shipment.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\Additional_questions\logistics_pro_shipment\obj\Debug\net8.0\ref\logistics_pro_shipment.dll
