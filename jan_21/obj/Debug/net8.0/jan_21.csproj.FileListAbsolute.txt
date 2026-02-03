@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\jan_21\bin\Debug\net8.0\jan_21.exe
+C:\Users\Hey\Desktop\FirstApp\jan_21\bin\Debug\net8.0\jan_21.deps.json
+C:\Users\Hey\Desktop\FirstApp\jan_21\bin\Debug\net8.0\jan_21.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\jan_21\bin\Debug\net8.0\jan_21.dll
+C:\Users\Hey\Desktop\FirstApp\jan_21\bin\Debug\net8.0\jan_21.pdb
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.dll
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\refint\jan_21.dll
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.pdb
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\jan_21.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\jan_21\obj\Debug\net8.0\ref\jan_21.dll
