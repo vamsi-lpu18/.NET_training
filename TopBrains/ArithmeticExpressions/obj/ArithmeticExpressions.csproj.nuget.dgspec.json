@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hey\\Desktop\\TopBrains\\ArithmeticExpressions\\ArithmeticExpressions.csproj": {}
+    "C:\\Users\\Hey\\Desktop\\FirstApp\\topbrains\\arithmeticExpressions\\ArithmeticExpressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hey\\Desktop\\TopBrains\\ArithmeticExpressions\\ArithmeticExpressions.csproj": {
+    "C:\\Users\\Hey\\Desktop\\FirstApp\\topbrains\\arithmeticExpressions\\ArithmeticExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hey\\Desktop\\TopBrains\\ArithmeticExpressions\\ArithmeticExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\Hey\\Desktop\\FirstApp\\topbrains\\arithmeticExpressions\\ArithmeticExpressions.csproj",
         "projectName": "ArithmeticExpressions",
-        "projectPath": "C:\\Users\\Hey\\Desktop\\TopBrains\\ArithmeticExpressions\\ArithmeticExpressions.csproj",
+        "projectPath": "C:\\Users\\Hey\\Desktop\\FirstApp\\topbrains\\arithmeticExpressions\\ArithmeticExpressions.csproj",
         "packagesPath": "C:\\Users\\Hey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hey\\Desktop\\TopBrains\\ArithmeticExpressions\\obj\\",
+        "outputPath": "C:\\Users\\Hey\\Desktop\\FirstApp\\topbrains\\arithmeticExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hey\\AppData\\Roaming\\NuGet\\NuGet.Config"
