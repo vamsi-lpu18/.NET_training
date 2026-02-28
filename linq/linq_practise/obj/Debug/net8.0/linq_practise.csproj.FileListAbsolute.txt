@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\linq_practise\bin\Debug\net8.0\linq_practise.exe
+C:\Users\Hey\Desktop\FirstApp\linq_practise\bin\Debug\net8.0\linq_practise.deps.json
+C:\Users\Hey\Desktop\FirstApp\linq_practise\bin\Debug\net8.0\linq_practise.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\linq_practise\bin\Debug\net8.0\linq_practise.dll
+C:\Users\Hey\Desktop\FirstApp\linq_practise\bin\Debug\net8.0\linq_practise.pdb
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.dll
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\refint\linq_practise.dll
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.pdb
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\linq_practise.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\linq_practise\obj\Debug\net8.0\ref\linq_practise.dll

@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\bin\Debug\net8.0\practise-app.exe
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\bin\Debug\net8.0\practise-app.deps.json
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\bin\Debug\net8.0\practise-app.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\bin\Debug\net8.0\practise-app.dll
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\bin\Debug\net8.0\practise-app.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.dll
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\refint\practise-app.dll
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\practise-app.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\m1\practise-app\obj\Debug\net8.0\ref\practise-app.dll

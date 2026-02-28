@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\bin\Debug\net8.0\linq-2.exe
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\bin\Debug\net8.0\linq-2.deps.json
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\bin\Debug\net8.0\linq-2.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\bin\Debug\net8.0\linq-2.dll
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\bin\Debug\net8.0\linq-2.pdb
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.dll
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\refint\linq-2.dll
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.pdb
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\linq-2.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\linq\linq-2\obj\Debug\net8.0\ref\linq-2.dll

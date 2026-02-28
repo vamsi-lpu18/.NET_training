@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\refs\bin\Debug\net8.0\refs.exe
+C:\Users\Hey\Desktop\FirstApp\refs\bin\Debug\net8.0\refs.deps.json
+C:\Users\Hey\Desktop\FirstApp\refs\bin\Debug\net8.0\refs.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\refs\bin\Debug\net8.0\refs.dll
+C:\Users\Hey\Desktop\FirstApp\refs\bin\Debug\net8.0\refs.pdb
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.dll
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refint\refs.dll
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.pdb
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\refs.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\refs\obj\Debug\net8.0\ref\refs.dll

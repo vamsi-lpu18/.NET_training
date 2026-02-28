@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\bin\Debug\net8.0\dict_linq.exe
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\bin\Debug\net8.0\dict_linq.deps.json
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\bin\Debug\net8.0\dict_linq.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\bin\Debug\net8.0\dict_linq.dll
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\bin\Debug\net8.0\dict_linq.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.dll
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\refint\dict_linq.dll
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\dict_linq.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\m1\dict_linq\obj\Debug\net8.0\ref\dict_linq.dll

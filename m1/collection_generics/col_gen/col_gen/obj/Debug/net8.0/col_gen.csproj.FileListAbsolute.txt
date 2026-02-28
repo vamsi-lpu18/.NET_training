@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\bin\Debug\net8.0\col_gen.exe
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\bin\Debug\net8.0\col_gen.deps.json
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\bin\Debug\net8.0\col_gen.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\bin\Debug\net8.0\col_gen.dll
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\bin\Debug\net8.0\col_gen.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.dll
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\refint\col_gen.dll
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.pdb
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\col_gen.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\m1\collection_generics\col_gen\col_gen\obj\Debug\net8.0\ref\col_gen.dll
