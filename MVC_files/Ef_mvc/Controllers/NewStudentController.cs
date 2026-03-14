@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -45,6 +46,24 @@ namespace ef_mvc.Controllers
             return View(student);
         }
 
+        // GET: NewStudent/CreateByQuery?name=...&age=...&email=...&phonenumber=...&hostelid=...
+        public IActionResult CreateByQuery(string name, int age, string email, string phonenumber, int hostelid)
+        {
+            var student = new Student
+            {
+                Name = name,
+                Age = age,
+                Email = email,
+                PhoneNumber = phonenumber,
+                HostelId = hostelid
+            };
+
+            _context.Students.Add(student);
+            _context.SaveChanges();
+
+            return Content("Student Created Successfully");
+        }
+
         // GET: NewStudent/Create
         public IActionResult Create()
         {
@@ -85,6 +104,78 @@ namespace ef_mvc.Controllers
             ViewData["HostelId"] = new SelectList(_context.Hostels, "Id", "Name", student.HostelId);
             return View(student);
         }
+        public IActionResult EditByQuery(int id, string name, int age, string email, string phonenumber, int hostelid)
+        {
+            var student = _context.Students.Find(id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+
+            student.Name = name;
+            student.Age = age;
+            student.Email = email;
+            student.PhoneNumber = phonenumber;
+            student.HostelId = hostelid;
+
+            _context.Update(student);
+            _context.SaveChanges();
+
+            return Content("Student Updated Successfully");
+        }
+        public IActionResult DeleteBYQuery(int id){
+            var student=_context.Students.Find(id);
+            if(student==null){
+                return NotFound();
+            }
+            _context.Students.Remove(student);
+            _context.SaveChanges();
+            return Content("Student Deleted Successfully");
+        }
+
+        // GET: NewStudent/CreateHostel?name=HostelA&address=SomeAddress
+        public IActionResult CreateHostel(string name, string address)
+        {
+            var hostel = new Hostel { Name = name, Address = address };
+            _context.Hostels.Add(hostel);
+            _context.SaveChanges();
+            return Content($"Hostel '{name}' created with Id: {hostel.Id}");
+        }
+
+        // GET: NewStudent/ListHostels
+        public IActionResult ListHostels()
+        {
+            var hostels = _context.Hostels.ToList();
+            StringBuilder sb = new StringBuilder();
+            foreach (var h in hostels)
+            {
+                sb.Append($"{h.Id} - {h.Name} <br>");
+            }
+            return Content(sb.ToString(), "text/html");
+        }
+
+        public IActionResult Get()
+        {
+            var students = _context.Students.ToList();
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var s in students)
+            {
+                sb.Append($"{s.Id} - {s.Name} - {s.Age} - {s.PhoneNumber} <br>");
+            }
+
+            return Content(sb.ToString(), "text/html");
+        }
+        public IActionResult GetById(int id)
+        {
+            var student = _context.Students.Find(id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+            return Content($"{student.Id} - {student.Name} - {student.Age} - {student.PhoneNumber}");
+        }
+
 
         // POST: NewStudent/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.

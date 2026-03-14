@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\bin\Debug\net8.0\facade-pattern.exe
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\bin\Debug\net8.0\facade-pattern.deps.json
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\bin\Debug\net8.0\facade-pattern.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\bin\Debug\net8.0\facade-pattern.dll
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\bin\Debug\net8.0\facade-pattern.pdb
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.dll
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\refint\facade-pattern.dll
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.pdb
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\facade-pattern.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\mvc_files\facade-pattern\obj\Debug\net8.0\ref\facade-pattern.dll

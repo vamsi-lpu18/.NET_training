@@ -1,0 +1,15 @@
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\bin\Debug\net10.0\apicheck.exe
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\bin\Debug\net10.0\apicheck.deps.json
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\bin\Debug\net10.0\apicheck.runtimeconfig.json
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\bin\Debug\net10.0\apicheck.dll
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\bin\Debug\net10.0\apicheck.pdb
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.AssemblyInfoInputs.cache
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.AssemblyInfo.cs
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.csproj.CoreCompileInputs.cache
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.sourcelink.json
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.dll
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\refint\apicheck.dll
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.pdb
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\apicheck.genruntimeconfig.cache
+C:\Users\Hey\Desktop\FirstApp\webapi\apicheck\obj\Debug\net10.0\ref\apicheck.dll

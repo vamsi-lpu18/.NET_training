@@ -1,0 +1,9 @@
+C:\Deploy\ngrok\ngrok.exe
+C:\Deploy\ngrok\appsettings.Development.json
+C:\Deploy\ngrok\appsettings.json
+C:\Deploy\ngrok\ngrok.dll
+C:\Deploy\ngrok\ngrok.deps.json
+C:\Deploy\ngrok\ngrok.runtimeconfig.json
+C:\Deploy\ngrok\ngrok.pdb
+C:\Deploy\ngrok\Microsoft.AspNetCore.OpenApi.dll
+C:\Deploy\ngrok\Microsoft.OpenApi.dll

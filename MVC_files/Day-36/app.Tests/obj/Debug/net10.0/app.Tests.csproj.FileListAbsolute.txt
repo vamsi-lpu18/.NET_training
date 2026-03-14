@@ -1,0 +1,6 @@
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.csproj.AssemblyReference.cache
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.AssemblyInfoInputs.cache
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.AssemblyInfo.cs
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\Desktop\cap_training\Practical\DotNet\Day-36\app.Tests\obj\Debug\net10.0\app.Tests.sourcelink.json
